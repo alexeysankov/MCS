@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.orig
+*.log
+*.lock.json
+*.txt
+
+client/*.log
+client/node_modules/
+client/src/output/
+client/src/**/*.js
+client/.idea/*
+client/npm-debug.log.*
+
