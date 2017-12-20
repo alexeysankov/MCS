@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C69D19BA-9EDE-4EE4-BD46-12EA43462A75}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/BusinessLogic/Interfaces/ICommonInterface.cs">
+    <Files>
+      <File FileName="src/DataAccess/Models/BaseModel.cs" Line="9" Column="27" />
+      <File FileName="src/BusinessLogic/Interfaces/ICommonInterface.cs" Line="13" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
